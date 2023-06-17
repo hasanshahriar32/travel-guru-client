@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.756af292.css",
-    "main.js": "/my-app/static/js/main.68b8381c.js",
-    "static/js/787.d9dc48ce.chunk.js": "/my-app/static/js/787.d9dc48ce.chunk.js",
-    "static/media/sea.jpg": "/my-app/static/media/sea.6d7fca54b207685b53cc.jpg",
-    "index.html": "/my-app/index.html",
-    "main.756af292.css.map": "/my-app/static/css/main.756af292.css.map",
-    "main.68b8381c.js.map": "/my-app/static/js/main.68b8381c.js.map",
-    "787.d9dc48ce.chunk.js.map": "/my-app/static/js/787.d9dc48ce.chunk.js.map"
+    "main.css": "/travel-guru-client/static/css/main.756af292.css",
+    "main.js": "/travel-guru-client/static/js/main.c05feba6.js",
+    "static/js/787.d9dc48ce.chunk.js": "/travel-guru-client/static/js/787.d9dc48ce.chunk.js",
+    "static/media/sea.jpg": "/travel-guru-client/static/media/sea.6d7fca54b207685b53cc.jpg",
+    "index.html": "/travel-guru-client/index.html",
+    "main.756af292.css.map": "/travel-guru-client/static/css/main.756af292.css.map",
+    "main.c05feba6.js.map": "/travel-guru-client/static/js/main.c05feba6.js.map",
+    "787.d9dc48ce.chunk.js.map": "/travel-guru-client/static/js/787.d9dc48ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.68b8381c.js"
+    "static/js/main.c05feba6.js"
   ]
 }
